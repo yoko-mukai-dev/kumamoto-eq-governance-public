@@ -105,7 +105,7 @@ KVOADのデータでは、以下の5分類を用いる。
 
 分類の基本的な意味は、第3節に記載した同名の機能に対応する。
 
-governance_function の欠損値（KVOAD）
+### governance_function の欠損値（KVOAD）
 
 KVOADのコード化データ2,183単位のうち、56単位（2.6％）については、governance_function が欠損値（NA）となっている。
 

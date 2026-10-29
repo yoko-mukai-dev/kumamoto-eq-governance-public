@@ -1,7 +1,7 @@
 # 公開用検証データの再計算
 
 v <- read.csv(
-  "validation/validation_public.csv"
+  "validation/validation_public.csv",
   fileEncoding = "UTF-8",
   stringsAsFactors = FALSE
 )
